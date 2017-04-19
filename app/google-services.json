@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "776142285585",
+    "firebase_url": "https://rtlt-75dd5.firebaseio.com",
+    "project_id": "rtlt-75dd5",
+    "storage_bucket": "rtlt-75dd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776142285585:android:f15946ccbcc12ffb",
+        "android_client_info": {
+          "package_name": "me.pritam.rltl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776142285585-ev1nps7sjdppinmsh1rgeqemm449lmu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.pritam.rltl",
+            "certificate_hash": "2086024d2da61694e925375432216a4b5291bad8"
+          }
+        },
+        {
+          "client_id": "776142285585-5ro9tav11qnd45tduubu492e4vch4hui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh68docKsRSSSCc35nc9JFZseWnjeuu84"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776142285585-5ro9tav11qnd45tduubu492e4vch4hui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
